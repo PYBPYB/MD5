@@ -1,0 +1,7 @@
+admin admin admin
+tom@qq.com cat tom
+sun@qq.com sss sun
+1234@163.com 1234 1234
+555@163.com 1234 555
+2679771017@qq.com 123 pyb
+267977101@qq.com 1234 pyb_s
